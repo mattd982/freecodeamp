@@ -1,2 +1,1 @@
-freecodeamp
-Practcing a little code for myself to sharpen my skills.
+Using freecodecamp to practice some code and sharpen my skills.
